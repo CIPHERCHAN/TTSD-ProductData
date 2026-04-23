@@ -1,6 +1,6 @@
 {
-  "version": "3.0.0",
-  "url": "https://github.com/CIPHERCHAN/TTSD-ProductData/releases/download/v3.0.0/T3CHS_Downloader.exe",
-  "notes": "V3.0 - New dark sidebar UI, brand filters, detail panel, auto-updater.",
+  "version": "3.1.0",
+  "url": "https://github.com/CIPHERCHAN/TTSD-Releases/releases/download/latest/T3CHS_Downloader.exe",
+  "notes": "Bug fixes",
   "required": false
 }
