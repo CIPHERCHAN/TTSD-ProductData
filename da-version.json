@@ -1,5 +1,5 @@
 {
-  "version": "1.4.0",
+  "version": "1.3.0",
   "url": "https://github.com/CIPHERCHAN/TTSD-Releases/releases/download/TTSD/T3CHS_DriverArsenal.exe",
   "notes": "Server-driven catalog with verified URLs.\nAuto-updater wired in.\nFixed activation status sync.",
   "required": false
