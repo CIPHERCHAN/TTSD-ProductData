@@ -1,6 +1,6 @@
 {
-  "version": "3.0.1",
+  "version": "3.0.2",
   "url": "https://github.com/CIPHERCHAN/TTSD-Releases/releases/download/TTSD/T3CHS.Transsion.Software.exe",
-  "notes": "Bug fixes",
+  "notes": "• Version label now sourced from assembly automatically — splash, title bar, footer, and window title all stay in sync\n• Side panel widened to 320px with bolder typography for better readability\n• New 'Region' field in side panel — auto-detected from build version (OP, RU, EU, TR, IN, ID, PH, etc.)\n• Results table redesigned: locked columns (no resize/reorder), wrap-enabled cells, no horizontal scroll, no Excel-style gridlines\n• Date column shows date only — full timestamp moved to side panel\n• Brand badges no longer clipped\n• NMark column removed from table (still visible in side panel)\n• Action column removed — Download lives only in the side panel for more table space\n• Fixed white strip at top of window (DWM resize-grip artifact)\n• Window control buttons: proper icons, polished hover states, Microsoft-red close button\n• New themed scrollbar — slim magenta-purple thumb with glow, no arrow buttons",
   "required": false
 }
