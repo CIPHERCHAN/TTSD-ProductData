@@ -1,6 +1,6 @@
 {
-  "version": "3.0.7",
+  "version": "3.0.8",
   "url": "https://github.com/CIPHERCHAN/TTSD-Releases/releases/download/TTSD/T3CHS.Transsion.Software.exe",
-  "notes": "Optimized Files and Drivers Location",
+  "notes": "File Organization and UpdaterCheck",
   "required": false
 }
