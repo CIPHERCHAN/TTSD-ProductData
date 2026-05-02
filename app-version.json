@@ -1,6 +1,6 @@
 {
-  "version": "3.1.1",
+  "version": "3.1.2",
   "url": "https://github.com/CIPHERCHAN/TTSD-Releases/releases/download/TTSD/T3CHS.Transsion.Software.exe",
-  "notes": "File Organization and UpdaterCheck",
+  "notes": "Logout button fix not loading, New Install Module direct to Device from PC/Laptop",
   "required": false
 }
