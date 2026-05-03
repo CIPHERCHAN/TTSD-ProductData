@@ -1,6 +1,6 @@
 {
-  "version": "3.1.2",
+  "version": "3.1.3",
   "url": "https://github.com/CIPHERCHAN/TTSD-Releases/releases/download/TTSD/T3CHS.Transsion.Software.exe",
-  "notes": "Logout button fix not loading, New Install Module direct to Device from PC/Laptop",
+  "notes": "• New TXT (Xiaomi Tool) tab — Soon to add Mi bootloader unlock built in\n• Manual cookie paste in TXT — paste a token from your browser and fire directly",
   "required": false
 }
