@@ -1,6 +1,6 @@
 {
-  "version": "3.1.3",
+  "version": "3.1.4",
   "url": "https://github.com/CIPHERCHAN/TTSD-Releases/releases/download/TTSD/T3CHS.Transsion.Software.exe",
-  "notes": "• New TXT (Xiaomi Tool) tab — Soon to add Mi bootloader unlock built in\n• Manual cookie paste in TXT — paste a token from your browser and fire directly",
+  "notes": "🆕 BAGO sa update:\n• Bootloader Unlock 🔓 — built-in na sa Xiaomi Tool tab (Login → Detect → Unlock)\n• Auto-wipe ng unlock profile bawat relaunch (fresh state per customer)\n• Manual cookie paste sa TXT — paste token, fire directly\n\n⚠️ Bootloader Unlock = BETA\nLimitasyon galing kay Xiaomi (hindi natin kontrolado):\n• Account dapat phone-bound, aged 30+ days, walang fraud flags\n• 1 device per month per account\n• Pwede mag-trigger ng security verification sa bagong PC\n\nKapag nag-fail: screenshot ang log (lalo na ang `code` at `description`) at send sa T3CHS support.",
   "required": false
 }
