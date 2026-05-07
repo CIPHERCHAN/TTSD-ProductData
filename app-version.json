@@ -1,6 +1,6 @@
 {
-  "version": "3.1.5",
+  "version": "3.1.6",
   "url": "https://github.com/CIPHERCHAN/TTSD-Releases/releases/download/TTSD/T3CHS.Transsion.Software.exe",
-  "notes": "🔒 3.1.5 — Security Update\n\n• Enhanced security checks sa startup\n• Improved session validation\n• Bug fixes at stability improvements\n\n⚠️ Required update — i-update agad para maiwasan ang issue sa pag-login.",
-  "required": true
+  "notes": "✨ 3.1.6 — TXFRP Tab\n\n• Bagong TXFRP tab — Xiaomi FRP, EDL, Factory Reset, FMD Check\n• Gumagamit ng credits — para mag-recharge, makipag-ugnayan sa admin\n\n⚠️ BETA pa ito — gamitin nang may pag-iingat.",
+  "required": false
 }
