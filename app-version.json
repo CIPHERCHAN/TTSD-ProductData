@@ -1,6 +1,6 @@
 {
-  "version": "3.1.8",
+  "version": "3.1.9",
   "url": "https://github.com/CIPHERCHAN/TTSD-Releases/releases/download/TTSD/T3CHS.Transsion.Software.exe",
-  "notes": "Patch on TXT Adjust time.",
-  "required": false
+  "notes": "TTSD Fixes on Device Model Platform/CPU being null .",
+  "required": true
 }
