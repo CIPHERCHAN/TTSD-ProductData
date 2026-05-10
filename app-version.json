@@ -2,5 +2,5 @@
   "version": "3.1.0",
   "url": "https://github.com/CIPHERCHAN/TTSD-Releases/releases/download/TTSD/T3CHS.Transsion.Software.exe",
   "notes": "Added XBind (Xiaomi Account Bind Bypass) on TXT tab. Firmware auto-extract after download. Platform/CPU backfill fix for Android-versioned devices.",
-  "required": true
+  "required": false
 }
