@@ -1,6 +1,6 @@
 {
-  "version": "3.2.1",
+  "version": "3.2.2",
   "url": "https://github.com/CIPHERCHAN/TTSD-Releases/releases/download/TTSD/T3CHS.Transsion.Software.exe",
-  "notes": "Added XBind (Xiaomi Account Bind Bypass) on TXT tab. Firmware auto-extract after download.  Added TUS tab (T3CHS Unisoc Suite) for SPD/Spreadtrum device operations — FRP remove, wipe data, bootloader unlock, flash/backup partition. Added PAC extract and partition picker for Unisoc/SPD devices - Beta test on your own risk.",
+  "notes": "Added TPP tab (T3CHS Payjoy Patch) — Payjoy lock removal for Android 15 and below. Global T3CHS Credits across TXFRP and TPP. TUS tab improvements. Minor bug fixes.",
   "required": true
 }
