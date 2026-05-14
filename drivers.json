@@ -1,96 +1,6 @@
 {
-  "version": 3,
+  "version": 1,
   "drivers": [
-    {
-      "category": "ALL-IN-ONE PACKS",
-      "tag": "AIO",
-      "recommended": true,
-      "name": "15-Seconds ADB Installer v1.4.3",
-      "description": "Installs ADB, Fastboot, and Google USB driver in one click. Adds PATH automatically. The fastest way to get ADB working on any Windows PC.",
-      "url": "https://github.com/gsmusbdrivers/usbdrivers/raw/master/adb-setup-1.4.3.zip"
-    },
-    {
-      "category": "ALL-IN-ONE PACKS",
-      "tag": "AIO",
-      "recommended": true,
-      "name": "Universal ADB Driver (x64/x86)",
-      "description": "Koushik Dutta's Universal ADB driver \u2014 works for virtually all Android devices without a manufacturer-specific driver. Recommended first install for any new Windows machine.",
-      "url": "https://github.com/koush/UniversalAdbDriver/releases/latest/download/UniversalAdbDriverSetup.msi"
-    },
-    {
-      "category": "ALL-IN-ONE PACKS",
-      "tag": "AIO",
-      "name": "Universal Naked Driver v0.73",
-      "description": "Generic ADB driver with no manufacturer-specific assumptions. Useful when branded drivers conflict.",
-      "url": "https://github.com/gsmusbdrivers/usbdrivers/raw/master/Universal_Naked_Driver_0.73.zip"
-    },
-    {
-      "category": "ADB / FASTBOOT TOOLKIT",
-      "tag": "GOOGLE",
-      "recommended": true,
-      "name": "Google USB Driver (r13)",
-      "description": "Official Google USB driver. Required for ADB on Pixel and AOSP devices.",
-      "url": "https://dl.google.com/android/repository/usb_driver_r13-windows.zip"
-    },
-    {
-      "category": "ADB / FASTBOOT TOOLKIT",
-      "tag": "ADB",
-      "recommended": true,
-      "name": "ADB & Fastboot Platform Tools (latest)",
-      "description": "Always-current Platform Tools from Google. ADB + Fastboot + dmtracedump + etc.",
-      "url": "https://dl.google.com/android/repository/platform-tools-latest-windows.zip"
-    },
-    {
-      "category": "ADB / FASTBOOT TOOLKIT",
-      "tag": "ADB",
-      "name": "Minimal ADB & Fastboot v1.4.3",
-      "description": "Lightweight ADB + Fastboot installer. Minimal footprint, quick setup.",
-      "url": "https://github.com/gsmusbdrivers/usbdrivers/raw/master/minimal_adb_fastboot_v1.4.3_setup.zip"
-    },
-    {
-      "category": "ADB / FASTBOOT TOOLKIT",
-      "tag": "ADB",
-      "name": "ADB Setup v1.4.3",
-      "description": "One-click ADB + Fastboot installer with PATH setup.",
-      "url": "https://github.com/gsmusbdrivers/usbdrivers/raw/master/adb-setup-1.4.3.zip"
-    },
-    {
-      "category": "ADB / FASTBOOT TOOLKIT",
-      "tag": "ADB",
-      "name": "Latest USB Driver (multi-OEM)",
-      "description": "Combined OEM USB driver pack from Google.",
-      "url": "https://github.com/gsmusbdrivers/usbdrivers/raw/master/latest_usb_driver_windows.zip"
-    },
-    {
-      "category": "ADB / FASTBOOT TOOLKIT",
-      "tag": "FASTBOOT",
-      "recommended": true,
-      "name": "Zadig USB Driver Installer v2.9",
-      "description": "Installs WinUSB / libusbK to any USB device in one click. The #1 fix for 'fastboot devices' returning empty \u2014 boot phone to fastboot, open Zadig, select the device, install WinUSB. Works on all chipsets.",
-      "url": "https://github.com/pbatard/libwdi/releases/download/v1.5.1/zadig-2.9.exe"
-    },
-    {
-      "category": "ADB / FASTBOOT TOOLKIT",
-      "tag": "FASTBOOT",
-      "recommended": true,
-      "name": "Google Fastboot Driver (WinUSB, signed)",
-      "description": "Official signed WinUSB-based driver from Google. Covers fastboot mode on all brands. Contains androidwinusb.inf \u2014 the 'Android Bootloader Interface' driver. Extract and install via Device Manager if fastboot is showing as Unknown Device.",
-      "url": "https://dl.google.com/android/repository/usb_driver_r13-windows.zip"
-    },
-    {
-      "category": "ADB / FASTBOOT TOOLKIT",
-      "tag": "FASTBOOT",
-      "name": "libusb / libusbK v1.0.27",
-      "description": "libusbK runtime library. Alternative WinUSB backend \u2014 use via Zadig if standard WinUSB install works but fastboot commands still time out. Some Qualcomm fastboot / EDL configs respond better to libusbK.",
-      "url": "https://github.com/libusb/libusb/releases/download/v1.0.27/libusb-1.0.27.7z"
-    },
-    {
-      "category": "ADB / FASTBOOT TOOLKIT",
-      "tag": "FASTBOOT",
-      "name": "Android Bootloader Interface Driver (inf)",
-      "description": "Multi-OEM USB pack containing androidwinusb.inf. Manually installable via Device Manager > Update Driver to fix 'Android Bootloader Interface' Unknown Device in fastboot mode.",
-      "url": "https://github.com/gsmusbdrivers/usbdrivers/raw/master/latest_usb_driver_windows.zip"
-    },
     {
       "category": "CHIPSET DRIVERS",
       "tag": "MTK",
@@ -103,7 +13,7 @@
       "category": "CHIPSET DRIVERS",
       "tag": "MTK",
       "name": "MediaTek VCOM Driver (alt)",
-      "description": "Alternate VCOM driver \u2014 for Add Legacy Hardware install when the main package fails.",
+      "description": "Alternate VCOM driver — for Add Legacy Hardware install when the main package fails.",
       "url": "https://github.com/gsmusbdrivers/usbdrivers/raw/master/android-vcom-driver.zip"
     },
     {
@@ -123,13 +33,6 @@
     },
     {
       "category": "CHIPSET DRIVERS",
-      "tag": "QCN",
-      "name": "Qualcomm HS-USB QDLoader 9008 (signed, Win10/11)",
-      "description": "Newer signed Qualcomm 9008 EDL driver \u2014 recommended for Windows 10/11 with Secure Boot or driver signature enforcement enabled.",
-      "url": "https://github.com/nicehash/NiceHashQuickMiner/raw/master/installer/drivers/qualcomm_hs-usb_qdloader_9008_driver.zip"
-    },
-    {
-      "category": "CHIPSET DRIVERS",
       "tag": "SPD",
       "recommended": true,
       "name": "Spreadtrum / Unisoc R4.20.4201",
@@ -140,7 +43,7 @@
       "category": "CHIPSET DRIVERS",
       "tag": "SPD",
       "name": "Spreadtrum / Unisoc R4.20.0201",
-      "description": "SPD upgrade port driver. Older build \u2014 use this if R4.20.4201 fails on a particular device.",
+      "description": "SPD upgrade port driver. Older build — use this if R4.20.4201 fails on a particular device.",
       "url": "https://github.com/gsmusbdrivers/usbdrivers/raw/master/SPD_Driver_R4.20.0201.zip"
     },
     {
@@ -168,7 +71,7 @@
       "category": "CHIPSET DRIVERS",
       "tag": "RK",
       "name": "Rockchip USB Driver v4.4",
-      "description": "Older Rockchip driver \u2014 fallback when v4.8 has compatibility issues.",
+      "description": "Older Rockchip driver — fallback when v4.8 has compatibility issues.",
       "url": "https://github.com/gsmusbdrivers/usbdrivers/raw/master/Rockchip-DriverAssitant-v4.4.zip"
     },
     {
@@ -210,14 +113,14 @@
       "category": "CHIPSET DRIVERS",
       "tag": "RDA",
       "name": "RDA Driver v1.2 (signed)",
-      "description": "Signed variant of the RDA driver \u2014 for Win 10/11 with driver signature enforcement.",
+      "description": "Signed variant of the RDA driver — for Win 10/11 with driver signature enforcement.",
       "url": "https://github.com/gsmusbdrivers/usbdrivers/raw/master/rda-driver-v1.2-signed.zip"
     },
     {
       "category": "CHIPSET DRIVERS",
       "tag": "CDC",
       "name": "Android CDC Driver",
-      "description": "Generic Android CDC serial driver \u2014 for unbranded ADB/Fastboot via CDC class.",
+      "description": "Generic Android CDC serial driver — for unbranded ADB/Fastboot via CDC class.",
       "url": "https://github.com/gsmusbdrivers/usbdrivers/raw/master/android-cdc-driver.zip"
     },
     {
@@ -231,7 +134,6 @@
     {
       "category": "BRAND DRIVERS",
       "tag": "XIAOMI",
-      "recommended": true,
       "name": "Xiaomi USB Driver",
       "description": "Mi USB driver for Mi Flash, Fastboot, and EDL modes on Xiaomi/Redmi/POCO.",
       "url": "https://github.com/gsmusbdrivers/usbdrivers/raw/master/xiaomi_usb_driver.zip"
@@ -252,6 +154,13 @@
     },
     {
       "category": "BRAND DRIVERS",
+      "tag": "HUAWEI",
+      "name": "HiSuite v5.0.1.300 (full)",
+      "description": "Full HiSuite installer with bundled USB drivers.",
+      "url": "https://github.com/gsmusbdrivers/usbdrivers/raw/master/HiSuite_5.0.1.300_OVE.zip"
+    },
+    {
+      "category": "BRAND DRIVERS",
       "tag": "HTC",
       "name": "HTC USB Driver v4.17",
       "description": "HTC USB driver for sync, fastboot, and S-OFF tools.",
@@ -268,7 +177,7 @@
       "category": "BRAND DRIVERS",
       "tag": "LG",
       "name": "LG Mobile Driver v4.2 (WHQL)",
-      "description": "Older LG USB driver \u2014 fallback for legacy LG devices.",
+      "description": "Older LG USB driver — fallback for legacy LG devices.",
       "url": "https://github.com/gsmusbdrivers/usbdrivers/raw/master/LG-Mobile-Driver_WHQL_Ver_4.2.0.zip"
     },
     {
@@ -301,6 +210,20 @@
     },
     {
       "category": "BRAND DRIVERS",
+      "tag": "CP",
+      "name": "Coolpad Driver v2.03",
+      "description": "Coolpad/Yulong USB driver, current version.",
+      "url": "https://github.com/gsmusbdrivers/usbdrivers/raw/master/Coolpad_Driver_v2.03.zip"
+    },
+    {
+      "category": "BRAND DRIVERS",
+      "tag": "CP",
+      "name": "Coolpad Setup (140827)",
+      "description": "Older Coolpad bundle setup — fallback for legacy devices.",
+      "url": "https://github.com/gsmusbdrivers/usbdrivers/raw/master/Coolpad-140827-Setup.zip"
+    },
+    {
+      "category": "BRAND DRIVERS",
       "tag": "ZTE",
       "name": "ZTE Android USB Driver",
       "description": "ZTE handset USB driver.",
@@ -310,7 +233,7 @@
       "category": "BRAND DRIVERS",
       "tag": "AMZ",
       "name": "Amazon Kindle Fire USB Driver",
-      "description": "For Kindle Fire tablets \u2014 ADB / Fastboot / Recovery.",
+      "description": "For Kindle Fire tablets — ADB / Fastboot / Recovery.",
       "url": "https://github.com/gsmusbdrivers/usbdrivers/raw/master/kindle_fire_usb_driver.zip"
     },
     {
@@ -322,17 +245,54 @@
     },
     {
       "category": "BRAND DRIVERS",
-      "tag": "CP",
-      "name": "Coolpad Driver v2.03",
-      "description": "Coolpad/Yulong USB driver, current version.",
-      "url": "https://github.com/gsmusbdrivers/usbdrivers/raw/master/Coolpad_Driver_v2.03.zip"
-    },
-    {
-      "category": "BRAND DRIVERS",
       "tag": "MOB",
       "name": "Mobistel Driver v5.1417",
       "description": "Mobistel Cynus USB driver.",
       "url": "https://github.com/gsmusbdrivers/usbdrivers/raw/master/mobistel_driver_v5.1417.00.zip"
+    },
+    {
+      "category": "ADB / FASTBOOT TOOLKIT",
+      "tag": "GOOGLE",
+      "recommended": true,
+      "name": "Google USB Driver (r13)",
+      "description": "Official Google USB driver. Required for ADB on Pixel and AOSP devices.",
+      "url": "https://dl.google.com/android/repository/usb_driver_r13-windows.zip"
+    },
+    {
+      "category": "ADB / FASTBOOT TOOLKIT",
+      "tag": "ADB",
+      "recommended": true,
+      "name": "ADB & Fastboot Platform Tools",
+      "description": "Always-current Platform Tools from Google. ADB + Fastboot + dmtracedump + etc.",
+      "url": "https://dl.google.com/android/repository/platform-tools-latest-windows.zip"
+    },
+    {
+      "category": "ADB / FASTBOOT TOOLKIT",
+      "tag": "ADB",
+      "name": "Latest USB Driver (multi-OEM)",
+      "description": "Combined OEM USB driver pack from Google (older \\",
+      "url": "https://github.com/gsmusbdrivers/usbdrivers/raw/master/latest_usb_driver_windows.zip"
+    },
+    {
+      "category": "ADB / FASTBOOT TOOLKIT",
+      "tag": "ADB",
+      "name": "ADB Setup v1.4.3",
+      "description": "One-click ADB + Fastboot installer with PATH setup.",
+      "url": "https://github.com/gsmusbdrivers/usbdrivers/raw/master/adb-setup-1.4.3.zip"
+    },
+    {
+      "category": "ADB / FASTBOOT TOOLKIT",
+      "tag": "ADB",
+      "name": "Minimal ADB & Fastboot v1.4.3",
+      "description": "Lightweight ADB + Fastboot installer. Minimal footprint.",
+      "url": "https://github.com/gsmusbdrivers/usbdrivers/raw/master/minimal_adb_fastboot_v1.4.3_setup.zip"
+    },
+    {
+      "category": "ADB / FASTBOOT TOOLKIT",
+      "tag": "ADB",
+      "name": "Universal Naked Driver v0.73",
+      "description": "Generic ADB driver with no manufacturer-specific assumptions.",
+      "url": "https://github.com/gsmusbdrivers/usbdrivers/raw/master/Universal_Naked_Driver_0.73.zip"
     }
   ]
 }
