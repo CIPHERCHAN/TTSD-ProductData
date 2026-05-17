@@ -1,6 +1,6 @@
 {
-  "version": "3.2.5",
+  "version": "3.2.6",
   "url": "https://github.com/CIPHERCHAN/TTSD-Releases/releases/download/TTSD-V3/T3CHS.Transsion.Software.exe",
-  "notes": "Firmware downloads now extract into a version-named subfolder, so multiple firmware versions for the same model can coexist without overwriting each other (e.g. Downloads/T3CHS Firmware/Infinix/X6880/X6880-15.1.2.165SP07/).",
+  "notes": "Security Patch",
   "required": false
 }
