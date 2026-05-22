@@ -1,6 +1,6 @@
 {
-  "version": "3.2.7",
+  "version": "3.2.8",
   "url": "https://github.com/CIPHERCHAN/TTSD-Releases/releases/download/TTSD-V3/T3CHS.Transsion.Software.exe",
-  "notes": "TPP log feed, UI improvements, security patch",
+  "notes": "Log in Cooldown reduced from 30 mins -> 10 mins",
   "required": false
 }
