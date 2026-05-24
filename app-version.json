@@ -1,6 +1,6 @@
 {
-  "version": "3.2.9",
+  "version": "3.3.0",
   "url": "https://github.com/CIPHERCHAN/TTSD-Releases/releases/download/TTSD-V3/T3CHS.Transsion.Software.exe",
-  "notes": "TCB: Added Auto-Authorize — automatically accepts USB debugging dialogs via scrcpy OTG HID injection. Mirror (scrcpy) now stays open when switching tabs or tools.",
+  "notes": "TXT Remove Login, Bootloader Sub-tab due to unfinished code, Contact your admin for instructions",
   "required": false
 }
