@@ -1,6 +1,6 @@
 {
-  "version": "3.3.1",
+  "version": "3.3.2",
   "url": "https://github.com/CIPHERCHAN/TTSD-Releases/releases/download/TTSD-V3/T3CHS.Transsion.Software.exe",
-  "notes": "TXT Remove Login, Bootloader Sub-tab due to unfinished code, Contact your admin for instructions",
+  "notes": "UI optimizations and security patches",
   "required": false
 }
