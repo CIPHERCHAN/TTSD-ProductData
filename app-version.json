@@ -1,6 +1,6 @@
 {
-  "version": "3.3.3",
+  "version": "3.3.4",
   "url": "https://github.com/CIPHERCHAN/TTSD-Releases/releases/download/TTSD-V3/T3CHS.Transsion.Software.exe",
-  "notes": "v3.3.3 — T3CHS Tool Box• Security: ships clean, verified binaries, and automatically cleans the T3CHS data folder on first launch to remove files from an earlier build that was flagged as infected\n\nOur sincere apologies for the earlier security issue and any inconvenience it caused — thank you for your patience and trust.",
-  "required": true
+  "notes": "v3.3.4 — Partition Download now requires credits\n\n• Transsion API Change: Single-partition downloads (boot, recovery, vbmeta, etc.) now consume 1 credit per download. This is due to increased API cost on our end for serving individual partition requests — full firmware download remains completely free as always.\n\n• Credit system already in place — if you've used TXFRP or TPP before, you're on the same credit pool. Contact admin to top up.\n\n• Credit balance now updates live across all tabs and in the header pill.",
+  "required": false
 }
