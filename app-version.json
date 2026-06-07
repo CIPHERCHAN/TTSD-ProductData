@@ -1,6 +1,6 @@
 {
-  "version": "3.3.4",
+  "version": "3.3.5",
   "url": "https://github.com/CIPHERCHAN/TTSD-Releases/releases/download/TTSD-V3/T3CHS.Transsion.Software.exe",
-  "notes": "v3.3.4 — Partition Download now requires credits\n\n• Transsion API Change: Single-partition downloads (boot, recovery, vbmeta, etc.) now consume 1 credit per download. This is due to increased API cost on our end for serving individual partition requests — full firmware download remains completely free as always.\n\n• Credit system already in place — if you've used TXFRP or TPP before, you're on the same credit pool. Contact admin to top up.\n\n• Credit balance now updates live across all tabs and in the header pill.",
+  "notes": "v3.3.5 — TTA, email alerts, and UI improvements\n\n• TTA (Transsion Account for OEM) — New tab for shared OEM unlock account pool. Request an account (2 credits), use it within 5 minutes, auto-locks when session ends.\n\n• Credits pill — Click the credits pill in the header to see your remaining balance and contact admin to top up.\n\n• Signup dialog — New account creation now shows a contact card so new technicians can reach admin directly for activation.",
   "required": false
 }
