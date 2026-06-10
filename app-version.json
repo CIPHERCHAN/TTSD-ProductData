@@ -1,6 +1,6 @@
 {
-  "version": "3.3.5",
+  "version": "3.3.6",
   "url": "https://github.com/CIPHERCHAN/TTSD-Releases/releases/download/TTSD-V3/T3CHS.Transsion.Software.exe",
-  "notes": "v3.3.5 — TTA, email alerts, and UI improvements\n\n• TTA (Transsion Account for OEM) — New tab for shared OEM unlock account pool. Request an account (2 credits), use it within 5 minutes, auto-locks when session ends.\n\n• Credits pill — Click the credits pill in the header to see your remaining balance and contact admin to top up.\n\n• Signup dialog — New account creation now shows a contact card so new technicians can reach admin directly for activation.",
+  "notes": "v3.3.6 — Fix Admin links and optimization speed.",
   "required": false
 }
