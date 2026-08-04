@@ -7,7 +7,7 @@
       "recommended": true,
       "name": "MediaTek MT65xx VCOM",
       "description": "MediaTek VCOM USB driver. Required for SP Flash Tool, MTK Flash Tool, and DA flashing on Tecno, Infinix, Itel, Redmi, Realme MTK chipsets.",
-      "url": "https://github.com/CIPHERCHAN/TTSD-Releases/releases/download/TTSD-V3/MediaTek.MT65xx.GSM.rar"
+      "url": "https://github.com/CIPHERCHAN/TTSD-Releases/releases/download/TTSD-V3/MediaTek.MT65xx.GSM.zip"
     },
     {
       "category": "CHIPSET DRIVERS",
