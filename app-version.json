@@ -1,6 +1,6 @@
 {
-  "version": "3.3.9",
+  "version": "3.3.8",
   "url": "https://github.com/CIPHERCHAN/TTSD-Releases/releases/download/TTSD-V3/T3CHS.Transsion.Software.exe",
-  "notes": "v3.3.9 — Added self-service Forgot Password (email OTP) on the sign-in screen.",
+  "notes": "v3.3.8 — Added self-service Forgot Password (email OTP) on the sign-in screen.",
   "required": false
 }
