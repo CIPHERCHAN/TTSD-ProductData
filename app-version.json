@@ -1,6 +1,6 @@
 {
-  "version": "3.3.9",
+  "version": "3.4.0",
   "url": "https://github.com/CIPHERCHAN/TTSD-Releases/releases/download/TTSD-V3/T3CHS.Transsion.Software.exe",
-  "notes": "v3.3.9 — Added self-service Forgot Password (email OTP) on the sign-in screen.",
-  "required": false
+  "notes": "v3.4.0\n\n• Added OTP for security of account during login.\n• New TRM Refined and added more new Rooting Managers.\n• New Bypass Volume Down when unlocking Bootloader - (Click on it first then proceed to UBL Transsion Device).\n• New TFD (T3CHS FIND my Device) iPhone, Xiaomi V1 and Xiaomi V2.",
+  "required": true
 }
