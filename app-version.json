@@ -1,6 +1,6 @@
 {
-  "version": "3.4.1",
+  "version": "3.4.2",
   "url": "https://github.com/CIPHERCHAN/TTSD-Releases/releases/download/TTSD-V3/T3CHS.Transsion.Software.exe",
-  "notes": "v3.4.1\n\n• New Instant Login - switching to another PC before the login interval ends? Choose to wait or use credits to log in instantly.\n• Fixed LOG OUT, Credits and Time-left pills not showing while firmware is still loading.",
+  "notes": "v3.4.2\n\n• Privacy Screen (TPS): new look + chat with the customer, with one-tap messages and a chime on every reply.\n• Privacy screen now ends by itself after 15 min of no activity - move the mouse to keep it on.\n• OTP only needed on a NEW PC. Better OTP screen with resend timer and attempts left.\n• New intro animation with sound, every time you sign in.\n• Firmware list: loading / Retry messages, and a red EXPIRED FIRMWARE label when the file is gone.\n• Credits: clearer \"not enough credits\" popup and a Recent activity list.\n• Removed the TXFRP tab.",
   "required": true
 }
