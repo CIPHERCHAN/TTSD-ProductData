@@ -1,6 +1,6 @@
 {
-  "version": "3.4.3",
+  "version": "3.4.4",
   "url": "https://github.com/CIPHERCHAN/TTSD-Releases/releases/download/TTSD-V3/T3CHS.Transsion.Software.exe",
-  "notes": "v3.4.3\n\n• Fixed: privacy screen sometimes showed as ON but apps still appeared on the customer's physical monitor.\n• TPS now starts from a clean copy every time, so Activate takes a few seconds longer.",
+  "notes": "v3.4.4\n\n• Fixed: Minor Issues.",
   "required": true
 }
