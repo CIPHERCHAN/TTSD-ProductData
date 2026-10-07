@@ -1,6 +1,6 @@
 {
-  "version": "3.4.4",
+  "version": "3.4.5",
   "url": "https://github.com/CIPHERCHAN/TTSD-Releases/releases/download/TTSD-V3/T3CHS.Transsion.Software.exe",
-  "notes": "v3.4.4\n\n• Fixed: Minor Issues.",
+  "notes": "v3.4.5\n\n• Account menu redesigned — click your name/days at the top-right for Switch Time, Credits, your T3CHS Code, and Log out, all in one place.\n• Signing up now requires a T3CHS Code from an existing member.",
   "required": true
 }
